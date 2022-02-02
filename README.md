@@ -1,4 +1,3 @@
 Hello
 
-OwO
 UwU
